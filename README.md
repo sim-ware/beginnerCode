@@ -1,7 +1,7 @@
 # codeForDerps
-The beginnings of a guide to take one from Derp to Dev
+The beginnings of a guide to take one from Derp to Dev.
 
-#Intro
+## Intro
 So, you want to be a developer?
 
 Maybe you want to a Back End Engineer, optimising your code to handle complex data.
@@ -16,7 +16,7 @@ here. Coding has become both a passion and a career for me, and to be able to he
 anyone else who's as willing to learn, but as clueless as I was when I started,
 would be a total honour.
 
-#Who Am I?
+## Who Am I?
 why did i learn to code
 -min wage
 -clueless after uni after doing arts degree
@@ -33,13 +33,15 @@ why i did a bootcamp
 -feels like theres a certain self-reliance you need for any career
 why i think you don't need to
 
-#Course Intro
+## Course Intro
 This course aims to get someone from virtually no knowledge in the field of coding,
 to be able to secure an entry level job in the industry. It will include mostly
 programming information, but will also lean into a bit of interview and career advice.
 
 At a very simple level, programming can be separated into three basic areas.
 Databases, the BackEnd, and the FrontEnd.
+
+#### The Three Areas
 
 Databases store organised information, and can be imagined a bit like a table or
 an excel spreadsheet. It runs on a server remote from the User's device.
@@ -56,6 +58,8 @@ value. Seeing how they work together will give you an end to end understanding o
 how websites and apps work, and will help you write code that coordinates better
 with the rest of the website/app.
 
+#### Terminal
+
 Also, this course will aim to give you an understanding of the Terminal, and source
 control(Git).
 
@@ -66,6 +70,9 @@ the nice high-definition screen to show you your instagrams and electronic mails
 and personal documents. The terminal is a basically a way of doing this with simple
 text commands, and in a software development context, it's the environment where
 we'll be running most of our code, so you need to learn it!
+
+
+##### Git
 
 Git is a type of Source/Version Control that we will learn as it makes it easier
 to track changes you make to files. For example, when you edit a file, git can help you determine exactly what changed, who changed it, and why. It will also let you revert
