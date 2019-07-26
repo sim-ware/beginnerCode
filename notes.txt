@@ -1,0 +1,90 @@
+Ed Code Handbook
+
+Terminal
+Back End and Servers
+- variables/functions/classes
+Testing
+OOP
+Codecademy, Learn to Code the Hard Way
+-python
+-NODE.JS
+Git/ Source Control
+-pull requests
+-init git repo
+-creating and cloning a repo
+Databases
+-SQL
+-firebase/firestore
+Front End
+-CSS grid
+-html/css/javascript
+-REACT
+
+CV/Interviews
+
+
+For each one
+-list and explain basic terms
+-have a basic task that will walk student through basics
+
+
+TERMINAL
+DEFINITIONS--
+-shell, command line, terminal, command prompt, console
+-although slightly different in nature, all terms are used interchangeably to
+--refer to the terminal
+
+WHY--
+-much faster than using graphical applications e.g. windows or finder to view
+--and select applications
+-terminal allows us to do this and more via simple text commands
+-e.g. we can install an application with a one-line-command instead of navigating
+--through multiple windows
+-also gives us an interface to run the code we write
+-best way to get started is to get started!
+
+get them to run through following resources:
+https://mac.appstorm.net/how-to/utilities-how-to/how-to-use-terminal-the-basics/
+https://learnpythonthehardway.org/python3/appendixa.html
+
+with an understanding of how the terminal works, we'll now try to get an
+understanding of writing code, and running those files in the terminal to see the
+output. At this beginning level, it gives us a nice environment to run and see the
+output of the bits of code we'll start to write.
+
+this is where we begin to look at 'programming', through the language of Python.
+
+Why Python?
+We're using Python because as a language it's easier to pick up. Compared to languages
+like Javascript, Java and C, it is easier to read and write and has a lower barrier
+to entry.
+
+Why not Ruby?
+It's similar in syntax to Ruby - both are nimble and super-legible. I
+think the advantage in learning Python here is that it's the more industry ready
+language. I've seen more companies rely on Python, and it's a great language for
+Data Science, so learning it now sets you up to learn more about Data Science in
+future.
+
+We're beginning at the BackEnd level because we can write and run code now without
+having to worry about running a server, and seeing our results in a Browser.
+
+To begin with, there are some concepts common to all languages that you need to
+get your head around; "Codecademy" and "Learn X the Hard Way are" great ways to
+introduce you to foundational concepts, and to hit the ground running.
+
+For this course you will need to complete the "Codecademy" section on Python, as
+well as Zed Shaw's "LearnPythonTheHardWay". These will give you a solid foundational
+understanding of both how Python and programming languages work.
+https://www.codecademy.com/learn/learn-python
+https://learnpythonthehardway.org/python3/index.html
+
+Once complete, move onto the following tasks:
+
+1. FizzBuzz
+2. Anagram - is a word anagram or not?
+3. Sign Up to "codewars" and get to 6kyu on Python
+4. Writing Tests
+5. Python OysterCard / Focus on User Stories and Tests
+
+Now repeat them in Javascript!
