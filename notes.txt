@@ -1,5 +1,10 @@
 Ed Code Handbook
 
+Warn of overwhelm
+take your time
+remember to wonder
+remember to wander
+
 Terminal
 Back End and Servers
 - variables/functions/classes
@@ -21,28 +26,20 @@ Front End
 -REACT
 
 CV/Interviews
+Text Editor guide
 
+# links
+CommandLineBasics
+https://mac.appstorm.net/how-to/utilities-how-to/how-to-use-terminal-the-basics/
 
-For each one
--list and explain basic terms
--have a basic task that will walk student through basics
+GitBasics
+https://product.hubspot.com/blog/git-and-github-tutorial-for-beginners
+
+CommandLineCrashCourse
+https://learnpythonthehardway.org/python3/appendixa.html
 
 
 TERMINAL
-DEFINITIONS--
--shell, command line, terminal, command prompt, console
--although slightly different in nature, all terms are used interchangeably to
---refer to the terminal
-
-WHY--
--much faster than using graphical applications e.g. windows or finder to view
---and select applications
--terminal allows us to do this and more via simple text commands
--e.g. we can install an application with a one-line-command instead of navigating
---through multiple windows
--also gives us an interface to run the code we write
--best way to get started is to get started!
-
 get them to run through following resources:
 https://mac.appstorm.net/how-to/utilities-how-to/how-to-use-terminal-the-basics/
 https://learnpythonthehardway.org/python3/appendixa.html
