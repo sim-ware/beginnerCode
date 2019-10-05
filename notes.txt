@@ -1,4 +1,21 @@
-sWarn of overwhelm
+## Next
+* How to learn a new technology
+* How to debug
+* How to dev
+  * https://www.barry-grubb.com/how-to-become-a-senior-developer.html
+* How to get a Job
+
+# index
+put an index of links to each section here.
+
+* What's an API
+* Projects
+  * Portfolio
+  * Blog
+  * Any Personal Project
+
+
+Warn of overwhelm
 take your time
 remember to wonder
 remember to wander
