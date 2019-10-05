@@ -1,34 +1,4 @@
-Why HTML?
-Why CSS?
-CSS stands for Cascading Style Sheets with an emphasis placed on “Style.” While
-HTML is used to structure a web document (defining things like headlines and paragraphs,
-and allowing you to embed images, video, and other media), CSS comes through and
-specifies your document’s style—page layouts, colors, and fonts are all determined
-with CSS. Think of HTML as the foundation (every house has one), and CSS as the
-aesthetic choices (there’s a big difference between a Victorian mansion and a
-mid-century modern home).
-
-Why JavaScript?
-When the web was invented people were unsure of it was was going to do exactly.
-They new it needed to hold information and could send information but they weren't
-sure what kind of information it would send.
-The first major thing for the web was HTML of Hyper Text Markup Language. This HTML
-let people make text and link to it. Then people though... you know what would make
-this better. Pictures! So they added pictures and it was better. But then people
-wanted the pages to do other things... for example have a page automatically go
-to another page (Like redirect the page.) or to allow the user to type number in
-a box and get their sum like a calculator.
-So a company called ECMA International designed a way to tell the computer to do
-these things. It was called ECMAScript but the name was weird so they named it
-coffeeScript but then another company got involved so they called it JavaScript.
-
-1. w3schools HTML: https://www.w3schools.com/html/default.asp
-2. w3schools CSS: https://www.w3schools.com/css/default.asp
-3. CodeCademy HTML & CSS: https://www.codecademy.com/catalog/language/html-css
-
-Ed Code Handbook
-
-Warn of overwhelm
+sWarn of overwhelm
 take your time
 remember to wonder
 remember to wander
@@ -43,6 +13,7 @@ Codecademy, Learn to Code the Hard Way
 -NODE.JS
 Git/ Source Control
 -pull requests
+--branch git status git diff commits
 -init git repo
 -creating and cloning a repo
 Databases
@@ -56,20 +27,10 @@ Front End
 CV/Interviews
 Text Editor guide
 
-# links
-CommandLineBasics
-https://mac.appstorm.net/how-to/utilities-how-to/how-to-use-terminal-the-basics/
-
 GitBasics
 https://product.hubspot.com/blog/git-and-github-tutorial-for-beginners
 
 CommandLineCrashCourse
-https://learnpythonthehardway.org/python3/appendixa.html
-
-
-TERMINAL
-get them to run through following resources:
-https://mac.appstorm.net/how-to/utilities-how-to/how-to-use-terminal-the-basics/
 https://learnpythonthehardway.org/python3/appendixa.html
 
 with an understanding of how the terminal works, we'll now try to get an
@@ -78,21 +39,6 @@ output. At this beginning level, it gives us a nice environment to run and see t
 output of the bits of code we'll start to write.
 
 this is where we begin to look at 'programming', through the language of Python.
-
-Why Python?
-We're using Python because as a language it's easier to pick up. Compared to languages
-like Javascript, Java and C, it is easier to read and write and has a lower barrier
-to entry.
-
-Why not Ruby?
-It's similar in syntax to Ruby - both are nimble and super-legible. I
-think the advantage in learning Python here is that it's the more industry ready
-language. I've seen more companies rely on Python, and it's a great language for
-Data Science, so learning it now sets you up to learn more about Data Science in
-future.
-
-We're beginning at the BackEnd level because we can write and run code now without
-having to worry about running a server, and seeing our results in a Browser.
 
 To begin with, there are some concepts common to all languages that you need to
 get your head around; "Codecademy" and "Learn X the Hard Way are" great ways to
