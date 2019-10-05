@@ -3,7 +3,7 @@ This course aims to put together everything you need to know to become a Junior 
 
 ## Course Structure
 * #### Basics
-* Terminal
+    * Terminal
     * Git
     * Testing
 * #### Servers
