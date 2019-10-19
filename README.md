@@ -26,6 +26,7 @@ This site will help you install Git on your machine and get you on your way to c
 * `git add <filename>` or `git add .` - either add a specific edited file, or all edited files to the current commit.
 * `git commit -m "your message"` - create a commit with a specified message.
 * `git push` - push up your most recent commit to GitHub.
+* `git pull` - pull down all the most recent changes made to the repo.
 * `git log` - see a list of all your commits, in chronological order.
 
 #### Why Python?
