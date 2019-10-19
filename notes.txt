@@ -4,11 +4,33 @@
 * How to dev
   * https://www.barry-grubb.com/how-to-become-a-senior-developer.html
 * How to get a Job
+* Add explanation of framework, library, modules etc
+* Add explanation of why full-stack
+* What's an API
+* Add explanation/ diagram of FrontEnd, BackEnd, and DB
+* Add code blogs, news eg: Hacker News, Hacker Noon, StackOverflow
+
+At a very simple level, programming can be separated into three basic areas.
+Databases, the BackEnd, and the FrontEnd.
+
+Databases store organised information, and can be imagined a bit like a table or
+an excel spreadsheet. It runs on a server remote from the User's device.
+
+The BackEnd handles this data, and the user's input. It also runs on a server remote
+from the User's device.
+
+The FrontEnd part of an app is what displays the information to the viewer, and
+runs on the client (browser or mobile device).
+
+Even if your have a preference for a certain area of coding, and intend to specialise
+in one area exclusively, at this stage learning the foundation of each area still has
+value. Seeing how they work together will give you an end to end understanding of
+how websites and apps work, and will help you write code that coordinates better
+with the rest of the website/app.
 
 # index
 put an index of links to each section here.
 
-* What's an API
 * Projects
   * Portfolio
   * Blog

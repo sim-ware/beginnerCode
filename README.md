@@ -1,4 +1,4 @@
-# Intro/Preface
+# Intro/Preface for Ed
 This course aims to put together everything you need to know to become a Junior Developer. The internet is an invaluable, exhaustive - but sometimes exhausting resource for learning how to code. I will try to make this journey less daunting for you by stringing together excellent and relevant teaching resources from the internet, as well as explanations for their relevance.
 
 ## Course Structure
@@ -7,8 +7,8 @@ This course aims to put together everything you need to know to become a Junior 
     * Git
     * Testing
 * #### Servers
-    * Python
-    * Node.js (javascript)
+    * Flask (Python)
+    * Express/Node.js (javascript)
 * #### Databases
     * SQL
     * Firebase
@@ -39,7 +39,10 @@ We're using Python because as a language it's easier to pick up. Compared to lan
 CSS stands for Cascading Style Sheets with an emphasis placed on “Style.” While HTML is used to structure a web document (defining things like headlines and paragraphs, and allowing you to embed images, video, and other media), CSS comes through and specifies your document’s style—page layouts, colors, and fonts are all determined with CSS. Think of HTML as the foundation (every house has one), and CSS as the aesthetic choices (there’s a big difference between a Victorian mansion and a mid-century modern home).
 1. w3schools HTML: https://www.w3schools.com/html/default.asp
 2. w3schools CSS: https://www.w3schools.com/css/default.asp
-3. CodeCademy HTML & CSS: https://www.codecademy.com/catalog/language/html-css
+3. CodeCademy HTML & CSS:
+ - https://www.codecademy.com/learn/learn-html
+ - https://www.codecademy.com/learn/learn-css
+ - https://www.codecademy.com/learn/make-a-website
 
 #### Why JavaScript?
 When the web was invented people were unsure of it was was going to do exactly. They new it needed to hold information and could send information but they weren't sure what kind of information it would send. The first major thing for the web was HTML of Hyper Text Markup Language. This HTML let people make text and link to it. Then people though... you know what would make this better. Pictures! So they added pictures and it was better. But then people wanted the pages to do other things... for example have a page automatically go to another page (Like redirect the page.) or to allow the user to type number in a box and get their sum like a calculator. So a company called ECMA International designed a way to tell the computer to do these things. It was called ECMAScript but the name was weird so they named it coffeeScript but then another company got involved so they called it JavaScript.
