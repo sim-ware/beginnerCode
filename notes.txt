@@ -1,4 +1,7 @@
 ## Next
+* Add explanation/ diagram of FrontEnd, BackEnd, and DB and add Diagram
+* Selective Igorance
+* How to ask Questions
 * How to learn a new technology
 * How to debug
 * How to dev
@@ -7,26 +10,7 @@
 * Add explanation of framework, library, modules etc
 * Add explanation of why full-stack
 * What's an API
-* Add explanation/ diagram of FrontEnd, BackEnd, and DB
 * Add code blogs, news eg: Hacker News, Hacker Noon, StackOverflow
-
-At a very simple level, programming can be separated into three basic areas.
-Databases, the BackEnd, and the FrontEnd.
-
-Databases store organised information, and can be imagined a bit like a table or
-an excel spreadsheet. It runs on a server remote from the User's device.
-
-The BackEnd handles this data, and the user's input. It also runs on a server remote
-from the User's device.
-
-The FrontEnd part of an app is what displays the information to the viewer, and
-runs on the client (browser or mobile device).
-
-Even if your have a preference for a certain area of coding, and intend to specialise
-in one area exclusively, at this stage learning the foundation of each area still has
-value. Seeing how they work together will give you an end to end understanding of
-how websites and apps work, and will help you write code that coordinates better
-with the rest of the website/app.
 
 # index
 put an index of links to each section here.
@@ -42,59 +26,30 @@ take your time
 remember to wonder
 remember to wander
 
-Terminal
-Back End and Servers
-- variables/functions/classes
-Testing
-OOP
-Codecademy, Learn to Code the Hard Way
--python
--NODE.JS
-Git/ Source Control
--pull requests
---branch git status git diff commits
--init git repo
--creating and cloning a repo
-Databases
--SQL
--firebase/firestore
-Front End
--CSS grid
--html/css/javascript
--REACT
+#### Terminal
+"An interface where you can type and execute text based commands."
 
-CV/Interviews
-Text Editor guide
+Also, this course will aim to give you an understanding of the Terminal, and source
+control(Git).
 
-GitBasics
-https://product.hubspot.com/blog/git-and-github-tutorial-for-beginners
+Developers use the terms Terminal, Command Line, Console and some others interchangeably.
+Although there are subtle differences, they more or less refer to the same thing.
+Normally you interact with visual icons to access Chrome, Word etc, and rely on
+the nice high-definition screen to show you your instagrams and electronic mails,
+and personal documents. The terminal is a basically a way of doing this with simple
+text commands, and in a software development context, it's the environment where
+we'll be running most of our code, so you need to learn it!
 
-CommandLineCrashCourse
-https://learnpythonthehardway.org/python3/appendixa.html
 
-with an understanding of how the terminal works, we'll now try to get an
-understanding of writing code, and running those files in the terminal to see the
-output. At this beginning level, it gives us a nice environment to run and see the
-output of the bits of code we'll start to write.
+#### Git
+Git is a type of Source/Version Control that we will learn as it makes it easier
+to track changes you make to files. For example, when you edit a file, git can help you determine exactly what changed, who changed it, and why. It will also let you revert
+your code to previous states too.
 
-this is where we begin to look at 'programming', through the language of Python.
+It’s useful for coordinating work among multiple people on a project, and for tracking
+progress over time by saving “checkpoints”. You could also use it while writing
+an essay, or to track changes to artwork and design files.
 
-To begin with, there are some concepts common to all languages that you need to
-get your head around; "Codecademy" and "Learn X the Hard Way are" great ways to
-introduce you to foundational concepts, and to hit the ground running.
-
-For this course you will need to complete the "Codecademy" section on Python, as
-well as Zed Shaw's "LearnPythonTheHardWay". These will give you a solid foundational
-understanding of both how Python and programming languages work.
-https://www.codecademy.com/learn/learn-python
-https://learnpythonthehardway.org/python3/index.html
-
-Once complete, move onto the following tasks:
-
-1. FizzBuzz
-2. Anagram - is a word anagram or not?
-3. Sign Up to "codewars" and get to 6kyu on Python
-4. Writing Tests
-5. Python OysterCard / Focus on User Stories and Tests
-
-Now repeat them in Javascript!
+Git isn’t the only version control system out there, but it’s by far the most popular. Many
+software developers use git daily, and understanding how to use it can give a major boost
+to your resume.

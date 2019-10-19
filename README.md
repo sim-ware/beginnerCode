@@ -1,6 +1,26 @@
 # Intro/Preface for Ed
 This course aims to put together everything you need to know to become a Junior Developer. The internet is an invaluable, exhaustive - but sometimes exhausting resource for learning how to code. I will try to make this journey less daunting for you by stringing together excellent and relevant teaching resources from the internet, as well as explanations for their relevance.
 
+![](domain.jpg)
+
+At a very simple level, programming can be separated into three basic areas.
+Databases, the BackEnd, and the FrontEnd.
+
+Databases store organised information, and can be imagined a bit like a table or
+an excel spreadsheet. It runs on a server remote from the User's device.
+
+The BackEnd handles this data, and the user's input. It also runs on a server remote
+from the User's device.
+
+The FrontEnd part of an app is what displays the information to the viewer, and
+runs on the client (browser or mobile device).
+
+Even if your have a preference for a certain area of coding, and intend to specialise
+in one area exclusively, at this stage learning the foundation of each area still has
+value. Seeing how they work together will give you an end to end understanding of
+how websites and apps work, and will help you write code that coordinates better
+with the rest of the website/app.
+
 ## Course Structure
 * #### Basics
     * Terminal
@@ -29,9 +49,13 @@ This site will help you install Git on your machine and get you on your way to c
 * `git pull` - pull down all the most recent changes made to the repo.
 * `git log` - see a list of all your commits, in chronological order.
 
+
+#### What's the Command Line/ Terminal?
+https://learnrubythehardway.org/book/appendixa.html
+
 #### Why Python?
 We're using Python because as a language it's easier to pick up. Compared to languages like Javascript, Java and C, it is easier to read and write and has a lower barrier to entry. Another advantage in learning Python here is that it's the more industry ready language. I've seen a lot of  companies rely on Python, and it's a great language for Data Science, so learning it now sets you up to learn more about both software development now, and Data Science in future.
-1. CodeCademy: https://www.codecademy.com/learn/learn-python: At the moment the Python course is available for free for 7 days. Complete as many as you can, and if you're stuck for longer than an hour look up the solution or reach out. Why CodeCademy? You want to programme! CodeCademy lets you write, run, and debug code in the browser. It's a great way to get started with minimal effort.
+1. CodeCademy: https://www.codecademy.com/learn/learn-python: At the moment the Python course is available for free for 7 days when you sign up. Complete as many as you can, and if you're stuck for longer than an hour look up the solution or reach out. Why CodeCademy? You want to programme! CodeCademy lets you write, run, and debug code in the browser. It's a great way to get started with minimal effort.
 1. Learn Python The Hard Way: https://learnpythonthehardway.org/python3/ This resource is fantastic - it will give you a thorough breakdown of how to use the Terminal, as well as a solid grounding in the basics of Python.
 1. Python Koans: https://github.com/gregmalcolm/python_koans This is another run-through of some Python fundamentals, as well a gentle introduction to using tests.
 
