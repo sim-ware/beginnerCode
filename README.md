@@ -39,23 +39,33 @@ with the rest of the website/app.
 # Start
 #### Git Basics
 This site will help you install Git on your machine and get you on your way to creating, cloning, and updating repositories: https://help.github.com/en/articles/set-up-git.
+
+Git is an example of 'Version Control', which is used to make and track changes to source code in software development. Using Git is a bit like saving your progress in a video game. It also allows for many developers to make and review changes to the same source code, which is invaluable in industry.
+
 ##### -CheatSheet Commands-
 * `git clone` - Clones a repository into the current directory.
 * `git status` - See what files have been changed since the last commit, and have been added to the current one. Changed files are listed in red, files added to the current commit will be in green.
 * `git diff` - See a side-by-side list of all the code changes made since the last commit.
 * `git add <filename>` or `git add .` - either add a specific edited file, or all edited files to the current commit.
-* `git commit -m "your message"` - create a commit with a specified message.
+* `git commit -m "your message"` - add a message to your current commit.
 * `git push` - push up your most recent commit to GitHub.
 * `git pull` - pull down all the most recent changes made to the repo.
 * `git log` - see a list of all your commits, in chronological order.
 
 
 #### What's the Command Line/ Terminal?
-https://learnrubythehardway.org/book/appendixa.html
+Terminals, also known as command lines or consoles, allow us to accomplish and automate tasks on a computer without the use of a graphical user interface.
+
+The Terminal is a way to control your computer using just text. It lets you run commands that are far more powerful than anything a GUI can do for you.
+
+  * https://learnrubythehardway.org/book/appendixa.html
+
+#### What's a Text Editor?
+Essentially, a text editor is a program on you computer that allows you to create and edit a range of programming language files. This is the place where you write your code! Examples include Atom, VSCode, PyCharm, and many, many more. For the time being Atom is a great one to get started with.
 
 #### Why Python?
 We're using Python because as a language it's easier to pick up. Compared to languages like Javascript, Java and C, it is easier to read and write and has a lower barrier to entry. Another advantage in learning Python here is that it's the more industry ready language. I've seen a lot of  companies rely on Python, and it's a great language for Data Science, so learning it now sets you up to learn more about both software development now, and Data Science in future.
-1. CodeCademy: https://www.codecademy.com/learn/learn-python: At the moment the Python course is available for free for 7 days when you sign up. Complete as many as you can, and if you're stuck for longer than an hour look up the solution or reach out. Why CodeCademy? You want to programme! CodeCademy lets you write, run, and debug code in the browser. It's a great way to get started with minimal effort.
+1. CodeCademy: https://www.codecademy.com/learn/learn-python: At the moment the Python 2 course is free. Although there are some pay-walled 'Pro' sections, ignore these. This is just to get started with some of the starting principles of programming, so whizz through the exercises and don't worry about remembering everything - you'll repeat these concepts over and over again and they will get hammered into your brain. If you're stuck for longer than an hour look up the solution or reach out. Why CodeCademy? You want to programme! CodeCademy lets you write, run, and debug code in the browser. It's a great way to get started with minimal effort.
 1. Learn Python The Hard Way: https://learnpythonthehardway.org/python3/ This resource is fantastic - it will give you a thorough breakdown of how to use the Terminal, as well as a solid grounding in the basics of Python.
 1. Python Koans: https://github.com/gregmalcolm/python_koans This is another run-through of some Python fundamentals, as well a gentle introduction to using tests.
 
@@ -69,4 +79,8 @@ CSS stands for Cascading Style Sheets with an emphasis placed on “Style.” Wh
  - https://www.codecademy.com/learn/make-a-website
 
 #### Why JavaScript?
-When the web was invented people were unsure of it was was going to do exactly. They new it needed to hold information and could send information but they weren't sure what kind of information it would send. The first major thing for the web was HTML of Hyper Text Markup Language. This HTML let people make text and link to it. Then people though... you know what would make this better. Pictures! So they added pictures and it was better. But then people wanted the pages to do other things... for example have a page automatically go to another page (Like redirect the page.) or to allow the user to type number in a box and get their sum like a calculator. So a company called ECMA International designed a way to tell the computer to do these things. It was called ECMAScript but the name was weird so they named it coffeeScript but then another company got involved so they called it JavaScript.
+When the web was invented people were unsure of it was was going to do exactly. They new it needed to hold information and could send information but they weren't sure what kind of information it would send. The first major thing for the web was HTML of Hyper Text Markup Language. This HTML let people make text and link to it. Then people though... you know what would make this better. Pictures! So they added pictures and it was better. But then people wanted the pages to do other things... for example have a page automatically go to another page (Like redirect the page.) or to allow the user to type number in a box and get their sum like a calculator. So they made JavaScript.
+
+However, it's been many years since the birth of JavaScript, and the language has grown. Nowadays it is the core language behind a lot of front-end design frameworks, like React and Angular. It can also be used in back-end and server development, through frameworks like Node and Express. Because of its versatility, it's almost everywhere in industry, and learning the language now not only adds a powerful tool to your kit, but it also prepares you to be able to start building apps and websites.
+
+  1. https://www.codecademy.com/learn/introduction-to-javascript
